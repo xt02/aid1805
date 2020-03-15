@@ -6,9 +6,3 @@ git 好用还是　svn好用
 svn使用更简单
 
 dev_jame_2添加了这一段
-
-
-project 更新　Readme.txt
-
-
-project 第二次更新　Readme.txt
